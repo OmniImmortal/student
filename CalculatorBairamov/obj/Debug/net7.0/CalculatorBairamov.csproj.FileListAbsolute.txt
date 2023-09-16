@@ -1,0 +1,14 @@
+D:\проекты  об\CalculatorBairamov\bin\Debug\net7.0\CalculatorBairamov.exe
+D:\проекты  об\CalculatorBairamov\bin\Debug\net7.0\CalculatorBairamov.deps.json
+D:\проекты  об\CalculatorBairamov\bin\Debug\net7.0\CalculatorBairamov.runtimeconfig.json
+D:\проекты  об\CalculatorBairamov\bin\Debug\net7.0\CalculatorBairamov.dll
+D:\проекты  об\CalculatorBairamov\bin\Debug\net7.0\CalculatorBairamov.pdb
+D:\проекты  об\CalculatorBairamov\obj\Debug\net7.0\CalculatorBairamov.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты  об\CalculatorBairamov\obj\Debug\net7.0\CalculatorBairamov.AssemblyInfoInputs.cache
+D:\проекты  об\CalculatorBairamov\obj\Debug\net7.0\CalculatorBairamov.AssemblyInfo.cs
+D:\проекты  об\CalculatorBairamov\obj\Debug\net7.0\CalculatorBairamov.csproj.CoreCompileInputs.cache
+D:\проекты  об\CalculatorBairamov\obj\Debug\net7.0\CalculatorBairamov.dll
+D:\проекты  об\CalculatorBairamov\obj\Debug\net7.0\refint\CalculatorBairamov.dll
+D:\проекты  об\CalculatorBairamov\obj\Debug\net7.0\CalculatorBairamov.pdb
+D:\проекты  об\CalculatorBairamov\obj\Debug\net7.0\CalculatorBairamov.genruntimeconfig.cache
+D:\проекты  об\CalculatorBairamov\obj\Debug\net7.0\ref\CalculatorBairamov.dll
